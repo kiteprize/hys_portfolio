@@ -25,19 +25,13 @@ function App(){
                     <Slider {...settings}>
                         <img src="Card_1/Card_1_1_pics/pic1.png" alt="pics"/>
                         <img src="Card_1/Card_1_1_pics/pic2.png" alt="pics"/>
-                        <img src="Card_1/Card_1_1_pics/pic3.png" alt="pics"/>
+                        <img src="Card_1/Card_1_1_pics/pic4.png" alt="pics"/>
+                        <img src="Card_1/Card_1_1_pics/pic4.png" alt="pics"/>
                     </Slider>
                 </div>
                 <div className="Browser-TextLine">
-                    전체적으로 심플플랫과 다크모드를 사용해 유저가 편하게 볼 수 있는 디자인을 기준으로 삼고 디자인하였습니다
-                    첫 소갯말에서는 유저에게 우리가 무엇을 추구하고 무슨 일을 하는지 인식할 수 있게 소갯말과 문구만을 띄어 몰입도를 높였습니다
-                    <br/>
-                    <br/>
-                    그 다음으로는 작업했던 프로젝트들을 볼 수 있게 사진과 카드를 만들어 간략한 설명이 들어가 무슨 프로젝트인지 알 수 있게 했습니다.
-                    그리고 자세히 보기를 눌르면 디자인과 기획을 어떻게 진행했는지 내용을 볼 수 있는 블로깅을 볼 수 있게 하였습니다.
-                    <br/>
-                    <br/>
-                    마지막으로 프로필부분에서 사용한 툴들은 무엇이 있는지와 유저와 연락할 수 있는 컨택 포인트를 집어넣어 유저와 연결점을 만들었습니다.
+                    React.js로 제작하여 프론트엔드 영역만 구현된 포트폴리오 사이트입니다.
+                    
                 </div>
                 <div className="Browser-SplitLine"/>
                 <div className="Browser-MainTitle">
@@ -45,9 +39,8 @@ function App(){
                 </div>
                 <div className="Browser-container">
                     <Slider {...settings}>
-                        <img src="Card_1/Card_1_1_pics/pic1.png" alt="pics"/>
-                        <img src="Card_1/Card_1_1_pics/pic2.png" alt="pics"/>
-                        <img src="Card_1/Card_1_1_pics/pic3.png" alt="pics"/>
+                        <img src="Card_1/Card_1_2_pics/pic1.png" alt="pics"/>
+                        <img src="Card_1/Card_1_2_pics/pic2.png" alt="pics"/>
                     </Slider>
                 </div>
                 <div className="Browser-TextLine">
@@ -68,8 +61,8 @@ function App(){
                     <Slider {...settings}>
                         <img src="Card_1/Card_1_1_pics/pic1.png" alt="pics"/>
                         <img src="Card_1/Card_1_1_pics/pic2.png" alt="pics"/>
-                        <img src="Card_1/Card_1_1_pics/pic3.png" alt="pics"/>
-                        <img src="Card_1/Card_1_1_pics/pic3.png" alt="pics"/>
+                        <img src="Card_1/Card_1_1_pics/pic4.png" alt="pics"/>
+                        <img src="Card_1/Card_1_1_pics/pic4.png" alt="pics"/>
                     </Slider>
                 </div>
                 <div className="Mobile-TextLine">
@@ -89,9 +82,8 @@ function App(){
                 </div>
                 <div className="Mobile-container">
                     <Slider {...settings}>
-                        <img src="Card_1/Card_1_1_pics/pic1.png" alt="pics"/>
-                        <img src="Card_1/Card_1_1_pics/pic2.png" alt="pics"/>
-                        <img src="Card_1/Card_1_1_pics/pic3.png" alt="pics"/>
+                        <img src="Card_1/Card_1_2_pics/pic1.png" alt="pics"/>
+                        <img src="Card_1/Card_1_2_pics/pic2.png" alt="pics"/>
                     </Slider>
                 </div>
                 <div className="Mobile-TextLine">
