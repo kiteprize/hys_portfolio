@@ -1,0 +1,65 @@
+.Browser-MainTitle{
+    text-align: center;
+    font-family: "Suit_B";
+    font-size: 28px;
+    margin: 32px auto;
+    color: white;
+}
+
+.Browser-container{
+    width: 100%;
+    height: fit-content;
+}
+
+.Browser-TextLine{
+    font-family: "Suit_R";
+    font-size: 16px;
+    margin: 40px;
+    color: white;
+}
+
+.Browser-SplitLine{
+    width: 300px;
+    height: 2px;
+    margin: 0px auto;
+    align-self: center;
+    background-color: #383838;
+}
+
+/*  */
+
+.Mobile-MainTitle{
+    text-align: center;
+    font-family: "Suit_B";
+    font-size: 7.368vw;
+    margin: 4.102vh auto;
+    color: white;
+}
+
+.Mobile-container{
+    width: 100%;
+    height: fit-content;
+}
+
+.Mobile-SubTitle{
+    font-family: "Suit_B";
+    font-size: 5.263vw;
+    margin: 10.526vw;
+    margin-bottom: 2.051vh;
+    color: white;
+}
+
+.Mobile-TextLine{
+    font-family: "Suit_R";
+    font-size: 4.21vw;
+    margin: 10.526vw;
+    color: white;
+}
+
+.Mobile-SplitLine{
+    width: 78.947vw;
+    height: 2px;
+    margin: 0px auto;
+    align-self: center;
+    background-color: #383838;
+}
